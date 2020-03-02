@@ -1,8 +1,8 @@
-# Sidik28
+# Jago80
 XL.Iflix
 # Frontend Domains (Random Selection)
 # hostname
 # hostname:80
-# hostname:443
-# videocdn-2.iflix.com
-112.215.101.67
+# hostname:8080
+# fbcdn-static-b-a.akamaihd.net
+127.0.0.1
